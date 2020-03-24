@@ -9,6 +9,8 @@
 *
 */
 
+// Here is a comment from sandro graf in order to mache a pull request.
+
 #include <Stepper.h>        // by Arduino
 #include <PubSubClient.h>   // by Nick O'Leary
 #include <WiFi.h>           // by Arduino
